@@ -1,0 +1,2 @@
+C:/Users/c_lu chauhan/Desktop/sam420/android/app/.cxx/RelWithDebInfo/5q562u82/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/c_lu chauhan/Desktop/sam420/android/app/.cxx/RelWithDebInfo/5q562u82/arm64-v8a/CMakeFiles/rebuild_cache.dir
